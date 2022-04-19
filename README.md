@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m studying for a Master in Computer Science
 - 👯 This is my portfolio: https://imandrec.github.io/
 
